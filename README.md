@@ -1,4 +1,4 @@
-# Topological Vacua
+# Lost in Thought
 
 A personal blog about physics notes using the Lagrange theme.
 
