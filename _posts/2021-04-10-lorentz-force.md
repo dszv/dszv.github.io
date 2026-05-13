@@ -6,6 +6,9 @@ categories: journal
 tags: [quantum mechanics]
 image: vanallen.jpg
 ---
+
+---
+
 Deduction of the Lorentz force as a relation of expected values on the quantum mechanical formalism using symmetry arguments.
 
 ---
