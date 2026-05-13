@@ -9,13 +9,13 @@ image: measurement.jpeg
 
 ---
 
-The question of carrying out measurements in quantum-mechanical systems and an interpretation of the results so obtained is rightly considered to be very complicated, requiring even today further research. We shall not given a detailed analysis of the problem of quantum-mechanical measurements, but shall try to describe a number of fundamental statements which have been explained clearly, and demonstrate them using some examples. 
+The question of carrying out measurements in quantum-mechanical systems and an interpretation of the results so obtained is rightly considered to be very complicated, requiring even today further research. We shall not given a detailed analysis of the problem of quantum-mechanical measurements, but shall try to describe a number of fundamental statements which have been explained clearly, and demonstrate them using some examples.
 
 ---
 
 ## The Origin of the Superposition of States and the Meaning of the Amplitudes of States
 
-Suppose that a micro-particle is in a certain state $$\langle \alpha \mid $$. According to the principle of superposition, the state $$ \langle \alpha \mid $$ may be expanded in terms of any system of basic states, for example, in the $$ \{ \mid\!\! \beta_i \rangle \} $$:
+Suppose that a micro-particle is in a certain state $\langle \alpha \mid $. According to the principle of superposition, the state $$ \langle \alpha \mid $$ may be expanded in terms of any system of basic states, for example, in the $$ \{ \mid\!\! \beta_i \rangle \} $$:
 
 $$
 \begin{equation}\label{T11.1}
