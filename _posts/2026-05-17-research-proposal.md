@@ -28,8 +28,6 @@ What does it mean for our theories in physics, for instance, to make progress? O
 
 Maybe you know about non-transitive dice. You can construct dice in such a way that one die tends to beat a second die, the second die tends to beat a third die, and yet the third die tends to beat the first one.
 
-![alt text](/../assets/img/nontransitive-dice.jpeg)
-
 <p align="center">
   <img src="/../assets/img/rowlettonedicediagram.png" width="500">
 </p>
