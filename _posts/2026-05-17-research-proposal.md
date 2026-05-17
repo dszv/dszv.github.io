@@ -30,6 +30,10 @@ Maybe you know about non-transitive dice. You can construct dice in such a way t
 
 ![alt text](/../assets/img/nontransitive-dice.jpeg)
 
+<p align="center">
+  <img src="/../assets/img/rowlettonedicediagram.png" width="500">
+</p>
+
 So there is no absolute ordering according to which one could simply say that one die is universally “better” than another. And this already shows that the notion of “better” may depend very strongly on the criterion one chooses.
 
 Now maybe in physics the criterion is predictive power. But then one has to ask: predictive power with respect to what class of phenomena? Or perhaps one says a theory is better because it is mathematically more elegant. But elegance is not itself a physical quantity. Or perhaps one values simplicity. But simplicity for whom? And so, once one begins to analyze carefully what is meant by “progress,” the matter becomes significantly less obvious than the rhetoric of research proposals usually suggests.
