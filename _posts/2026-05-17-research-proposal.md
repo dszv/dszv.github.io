@@ -18,7 +18,7 @@ Very fair. It is a fair thing. And in physics, you write things like:
 
 or
 
-> *In recent years, we have converged toward the true theory.”*
+> *In recent years, we have converged toward the true theory.*
 
 Or whatever formulation you want to choose. So you write up this proposal, and then it goes through several institutions. Maybe it first needs the **spiritual approval** of the Office for Gender and Diversity. But once it passes through that layer, it actually goes to experts.
 
@@ -28,7 +28,7 @@ What does it mean for our theories in physics, for instance, to make progress? O
 
 Maybe you know about non-transitive dice. You can construct dice in such a way that one die tends to beat a second die, the second die tends to beat a third die, and yet the third die tends to beat the first one.
 
-!(/../assets/img/nontransitive-dice.jpeg)
+![alt text](/../assets/img/nontransitive-dice.jpeg)
 
 So there is no absolute ordering according to which one could simply say that one die is universally “better” than another. And this already shows that the notion of “better” may depend very strongly on the criterion one chooses.
 
