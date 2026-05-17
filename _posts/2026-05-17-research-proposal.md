@@ -34,6 +34,8 @@ Maybe you know about non-transitive dice.
 
 You can construct dice in such a way that one die tends to beat a second die, the second die tends to beat a third die, and yet the third die tends to beat the first one.
 
+!(nontransitive-dice.jpeg)
+
 So there is no absolute ordering according to which one could simply say that one die is universally “better” than another.
 
 And this already shows that the notion of “better” may depend very strongly on the criterion one chooses.
