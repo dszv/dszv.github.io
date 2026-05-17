@@ -7,41 +7,22 @@ tags: [quantum mechanics]
 image: nontransitive-dice.jpeg
 ---
 
----
 
-Professor Schuller questions the implicit assumption that physics progresses linearly toward “the true theory.” He argues that before speaking about convergence or progress, one must first define a notion of closeness; mathematically, this means specifying a topology on the space of theories. Without such a structure, statements about “getting closer to the truth” are philosophically unclear, even if they are rhetorically common in research culture.
+So let me make one half-serious side remark. If today you want to do research, you need to apply for money. If you want to apply for money, you've got to write a research proposal. A research proposal is usually of the form:
 
----
+"We do (this) and (that) because, once we do that, we know more.”
 
-Okay, so that was the example there. That's convergence. Now we come to continuity.
+Very fair. It is a fair thing. And in physics, you write things like:
 
-So let me make one half-serious side remark.
-
-If today you want to do research, you need to apply for money.
-
-If you want to apply for money, you've got to write a research proposal. A research proposal is usually of the form:
-
-> “We do this and that because, once we do that, we know more.”
-
-Very fair. It is a fair thing.
-
-And in physics, you write things like:
-
-> “We come closer to the truth.”
+“We come closer to the truth.”
 
 or
 
-> “In recent years, we have converged toward the true theory.”
+“In recent years, we have converged toward the true theory.”
 
-Or whatever formulation you want to choose.
+Or whatever formulation you want to choose. So you write up this proposal, and then it goes through several institutions. Maybe it first needs the spiritual approval of the Office for Gender and Diversity. But once it passes through that layer, it actually goes to experts.
 
-So you write up this proposal, and then it goes through several institutions. Maybe it first needs the spiritual approval of the Office for Gender and Diversity.
-
-But once it passes through that layer, it actually goes to experts.
-
-Experts, however, do not have much time. So they mostly read the introduction, and in the introduction it needs to say that we are getting better and that we are making progress.
-
-Now let us half-seriously and critically evaluate this.
+Experts, however, do not have much time. So they mostly read the introduction, and in the introduction it needs to say that we are getting better and that we are making progress. Now let us half-seriously and critically evaluate this.
 
 What does it mean for our theories in physics, for instance, to make progress?
 
