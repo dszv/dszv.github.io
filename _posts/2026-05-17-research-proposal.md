@@ -24,7 +24,7 @@ Or whatever formulation you want to choose. So you write up this proposal, and t
 
 Experts, however, do not have much time. So they mostly read the introduction, and in the introduction it needs to say that we are getting better and that we are making progress. Now let us half-seriously and critically evaluate this.
 
-What does it mean for our theories in physics, for instance, to make progress? One possible answer, certainly not the only one, would be to say that theories become better and better. But then immediately one needs a measure according to which one theory can be considered better than another. 
+What does it mean for our theories in physics, for instance, to make progress? One possible answer, certainly not the only one, would be to say that theories become better and better. But then immediately one needs a measure according to which one theory can be considered better than another.
 
 Maybe you know about non-transitive dice. You can construct dice in such a way that one die tends to beat a second die, the second die tends to beat a third die, and yet the third die tends to beat the first one.
 
