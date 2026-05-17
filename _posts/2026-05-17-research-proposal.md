@@ -48,4 +48,8 @@ Because different topologies generate different notions of convergence. A sequen
 
 This is why these mathematical notions are philosophically far more important than they may initially appear. Continuity and convergence are not merely technical concepts appearing in analysis textbooks. They are part of the conceptual language through which entire scientific cultures describe themselves.
 
-So now let us return from this philosophical side remark back to mathematics proper and define continuity rigorously.
+So now let us return to mathematics.
+
+---
+
+Transcript of F. P. Schuller, *Geometric Anatomy of Theoretical Physics*
