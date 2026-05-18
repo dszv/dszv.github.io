@@ -17,6 +17,11 @@
 */
 
 @font-face {
+    font-family: 'Cloister Black';
+    src: url("../fonts/CloisterBlack.ttf") format('truetype');
+}
+
+@font-face {
     font-family: 'Mononoki Nerd Font';
     src: url("../fonts/mononoki-Regular Nerd Font Complete.ttf") format('truetype');
 }
@@ -133,7 +138,7 @@ hr {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   margin-bottom: 4rem;
-  font-family: "Agave Nerd Font", sans-serif;
+  font-family: "Cloister Black", sans-serif; /*"Agave Nerd Font", sans-serif;*/
 }
 
 .masthead a:hover {
