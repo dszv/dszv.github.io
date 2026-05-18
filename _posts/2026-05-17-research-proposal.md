@@ -7,7 +7,7 @@ tags: [theoretical physics]
 image: nontransitive-dice.jpeg
 ---
 
-If[^1] today you want to do research, you need to apply for money. If you want to apply for money, you've got to write a research proposal. A research proposal is usually of the form:
+If today you want to do research, you need to apply for money. If you want to apply for money, you've got to write a research proposal. A research proposal is usually of the form:
 
 > *We do (this) and (that) because, once we do that, we know more.*
 
