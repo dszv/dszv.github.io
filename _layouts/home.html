@@ -5,7 +5,7 @@ title: Home
 
 {% for post in paginator.posts %}
 <div class="posts">
-  <h1>
+  <h1 style="font-weight: bold; text-decoration: underline; text-underline-offset: 6px;">
     <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
   </h1>
   {% if post.image %}

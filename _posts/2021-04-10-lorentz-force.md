@@ -7,11 +7,7 @@ tags: [quantum mechanics]
 image: vanallen.jpg
 ---
 
----
-
-Deduction of the Lorentz force as a relation of expected values on the quantum mechanical formalism using symmetry arguments.
-
----
+In this article we will try to deduce the expression of the Lorentz force as a relation of expected values on the quantum mechanical formalism using symmetry arguments.
 
 ## Klein-Gordon equation with minimal coupling
 
