@@ -7,6 +7,7 @@ tags: [theoretical physics]
 image: nontransitive-dice.jpeg
 ---
 
+---
 Transcript of F. P. Schuller, *Geometric Anatomy of Theoretical Physics*
 ---
 
