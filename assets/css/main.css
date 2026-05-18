@@ -86,8 +86,15 @@ blockquote {
   line-height: 1.5;
 }
 
-hr {
+/*hr {
   border-top: 10px solid #2a2a2a;
+}*/
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: #2a2a2a;
+  margin: 2rem 0;
 }
 
 /*
