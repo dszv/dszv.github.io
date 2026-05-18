@@ -51,4 +51,4 @@ So now let us return to mathematics.
 
 ---
 
-Transcript of F. P. Schuller, *Geometric Anatomy of Theoretical Physics* Lecture series.
+Transcript of the lecture series Geometric Anatomy of Theoretical Physics by F. P. Schuller.
