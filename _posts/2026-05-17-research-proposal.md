@@ -51,4 +51,4 @@ So now let us return to mathematics.
 
 ---
 
-[^1] Transcript of F. P. Schuller, *Geometric Anatomy of Theoretical Physics*
+[^1]: Transcript of F. P. Schuller, *Geometric Anatomy of Theoretical Physics*
