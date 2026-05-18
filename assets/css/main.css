@@ -91,8 +91,9 @@ blockquote {
   margin: 10px 20px 10px;
   padding: 0px 15px;
   border-left: 0.25em solid #3a3a3a;
-  color: #6b6b6b;
-  line-height: 1.5;
+  color: #a0a0a0; /*6b6b6b;*/
+  font-style: italic;
+  line-height: 1.066;
 }
 
 /*hr {

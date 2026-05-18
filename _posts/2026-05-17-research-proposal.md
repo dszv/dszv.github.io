@@ -9,11 +9,11 @@ image: nontransitive-dice.jpeg
 
 If today you want to do research, you need to apply for money. If you want to apply for money, you've got to write a research proposal. A research proposal is usually of the form:
 
-> *We do (this) and (that) because, once we do that, we know more.*
+> We do (this) and (that) because, once we do that, we know more.
 
 Very fair. It is a fair thing. And in physics, you write things like:
 
-> *We come closer to the truth.*
+> We come closer to the truth.
 
 or
 
