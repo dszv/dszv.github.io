@@ -17,6 +17,11 @@
 */
 
 @font-face {
+    font-family: 'IBMPlexMono-Regular';
+    src: url("../fonts/IBMPlexMono-Regular.ttf") format('truetype');
+}
+
+@font-face {
     font-family: 'Cloister Black';
     src: url("../fonts/CloisterBlack.ttf") format('truetype');
 }
@@ -37,7 +42,7 @@
 }
 
 body {
-  font-family: "IBM Plex Mono", Georgia, "Times New Roman", serif;
+  font-family: "IBMPlexMono-Regular", Georgia, "Times New Roman", serif;
   font-size: 15px;
   color: #c5c5c5;/*#a0a0a0;*/
   line-height: 1.75rem;
