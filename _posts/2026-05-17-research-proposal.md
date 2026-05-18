@@ -7,6 +7,8 @@ tags: [theoretical physics]
 image: nontransitive-dice.jpeg
 ---
 
+Transcript of F. P. Schuller, *Geometric Anatomy of Theoretical Physics*
+---
 
 If today you want to do research, you need to apply for money. If you want to apply for money, you've got to write a research proposal. A research proposal is usually of the form:
 
@@ -49,7 +51,3 @@ Because different topologies generate different notions of convergence. A sequen
 This is why these mathematical notions are philosophically far more important than they may initially appear. Continuity and convergence are not merely technical concepts appearing in analysis textbooks. They are part of the conceptual language through which entire scientific cultures describe themselves.
 
 So now let us return to mathematics.
-
----
-
-Transcript of F. P. Schuller, *Geometric Anatomy of Theoretical Physics*
